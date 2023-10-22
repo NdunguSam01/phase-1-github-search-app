@@ -11,3 +11,21 @@
 ul {
   list-style: none;
 }
+ul#user-list li
+{
+  padding-top: 20px;
+}
+ul#user-list li img
+{
+  width: 100px; 
+  height: 100px;
+}
+ul#user-list li span
+{
+  padding-left: 10px;
+}
+ul#user-list li a, ul#user-list li a:visited
+{
+  color: blue;
+  text-decoration: none;
+}
